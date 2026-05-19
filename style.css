@@ -1,0 +1,270 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+body {
+height: 100%;
+font-size: 100%;
+font-family: serif;
+background: black;
+overflow: visible;
+}
+
+a, p a {
+text-decoration: none;
+}
+
+p {
+font-size: 0.9em;
+line-height: 1.5em;
+margin-bottom: 0.8em;
+}
+
+li {
+list-style: none;
+font-size: 1em;
+line-height: 1.3em;
+margin-bottom: 0.5em;
+}
+
+h1 {
+font-size: 1.5em; 
+margin-bottom: 0.8em;
+}
+
+h2 {
+font-size: 1.1em;
+margin-bottom: 0.5em;
+}
+
+h3 {
+font-size: 1.002em;
+margin-bottom: 0.5em;
+}
+
+.clear {clear: both;}
+
+div#pagewrap {
+border-right: 5px solid #b5b2a6;
+min-height:100%;
+width: 1024px;
+position: relative;
+margin: 0 auto;
+background: white;
+}
+
+div#barleft {
+display: block;
+width: 225px;
+min-height: 700px;
+border-left: 5px solid #b5b2a6;
+border-right: 5px solid #b5b2a6;
+float: left;
+position: relative;
+padding: 10px;
+background: url(images/ktlogo.png) top center no-repeat, #357b8c;
+text-align: center;
+}
+
+div#title {
+display: block;
+position: relative;
+margin-top: 160px;
+margin-bottom: 15px;
+font-family: 'Pirata One', cursive;
+font-style: normal;
+font-size: 3em;
+line-height: 85%;
+color: #d7f4e3;
+text-shadow: 2px 2px #333333;
+}
+
+div#title a{
+color: #d7f4e3;
+text-shadow: 2px 2px #333333;
+} 
+
+div#title a:hover, div#title a:active{
+color: white;
+text-shadow: 2px 2px #333333;
+}
+
+div#navigation {
+display: block;
+position: relative;
+border: solid gray;
+background: white;
+width: 200px;
+margin-left: auto;
+margin-right: auto;
+font-family: 'Pirata One', cursive;
+font-size: 2.25em;
+}
+
+div#navigation li{
+display: block;
+position relative;
+border-bottom: none;
+margin: 0px;
+color: gray;
+}
+
+div#navigation li a{
+color: black;
+}
+
+div#navigation li a:hover, div#navigation li a:active  {
+color: gray;
+}
+
+div#footer {
+margin-top: 10px;
+font-size: 0.8em;
+}
+
+div#footer a{
+color: #d7f4e3;}
+
+.credit{margin-top: 20px; text-align: center; font-size: 0.6em; color: white; font-family: sans-serif;}
+.credit a{color: #ffcc00; }
+
+div#maincontent {
+display: block;
+position: relative;
+width: 800px;
+min-height: 710px;
+margin-left: 230px;
+padding-top: 10px;
+ }
+
+div#maincontent a{
+color: #357b8c;
+}
+ 
+div#maincontent span{
+display: block;
+position: relative;
+width: 700px;
+margin: 20px auto 0px auto;
+text-align: center;
+line-height: 125%;
+}
+
+/*floorplan image viewer code*/
+.floorplans{
+  width:600px;
+  height: 550px;
+  background-color:#357b8c;
+  padding:20px;
+  border-radius:20px;
+  border:solid 1px #c5c5c5;
+  display: block;
+position: relative;
+margin: 0 auto;
+}
+.floorplans .big-image{
+  border:solid 1px gray;
+  padding:10px;
+  margin:0 auto;
+  background-color:white;  
+}
+.floorplans .big-image img{
+  display:none;
+  margin:0 auto;
+}
+/*Selected image display*/
+.floorplans .big-image img:target{display:block;}
+/*on select image dusplay none the default image*/
+.floorplans .big-image img:target ~ img#default{display:none;}
+/*Shoe Default Image in first load*/
+.floorplans .big-image img#default{display:block;}
+
+.floorplans ul{margin-top:15px;}
+.floorplans li{float:left;
+  display: block;
+  width: 150px;}
+.floorplans li img{
+display: block;
+position: relative;
+width: 100px;
+margin: 0 auto;
+border:2px solid #75cbaa;}
+.floorplans li img:hover{
+ border:2px solid grey;}
+.title{font-size:1.5em;font-weight:bold;color:white;text-align:center;margin-bottom:15px;}
+
+.desc
+  {
+  display: block;
+	position: relative;
+  text-align:center;
+  font-weight:normal;
+  width:100px;
+  margin:0 auto;
+  color: white;
+  }
+  
+/*image gallery code*/
+.wrapper {
+	width: 700px;
+	position: relative;
+	display: block;
+	margin: 0 auto;
+}
+.wrapper .thumbnails {
+	width: 150px;
+	float: right;
+}
+.wrapper a {
+	margin: 2px;
+}
+.wrapper img {
+	border: 1px solid #357b8c;
+}
+.wrapper label > img {
+	opacity: 0.6;
+}
+.wrapper label > img:hover {
+	opacity: 1;
+}
+.wrapper input {
+	display: none;
+}
+.wrapper input:checked + .full-image {
+	display: block;
+}
+.wrapper input:checked ~ img {
+	opacity: 1;
+}
+.wrapper .full-image {
+	display: none;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.wrapper .description {
+	width:95%;
+	padding:5px;
+	background-color:#DDDDDD;
+}
+/*alignment code*/
+.aligncenter {
+display: block;
+position: relative;
+margin-right: auto;
+margin-left: auto;
+}
+
+.alignleft{
+display: block;
+position: relative;
+float: left;
+}
+
+.alignright{
+display: block;
+position: relative;
+float: right;
+}
+
