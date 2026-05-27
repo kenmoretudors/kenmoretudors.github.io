@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+	<!-- Microdata markup added by Google Structured Data Markup Helper. -->
+<html itemscope itemtype="http://schema.org/LocalBusiness">
+<head>
+	<title>Lexington & Ashland Apartments</title>
+	<meta name="generator" content="Bluefish 2.2.4" >
+	<meta name="author" content="zoe" >
+	<meta name="copyright" content="Lexington & Ashland Apartments">
+	<meta itemprop="name" content="Lexington & Ashland Apartments">
+	<meta itemprop="description" content="Lexington & Ashland Apartments are located in historic Elmwood Village, downtown Buffalo.">
+	<meta itemprop="image" content="">
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link href="http://fonts.googleapis.com/css?family=Voltaire" rel="stylesheet" type="text/css">
+
+</head>
+<body>
+	<div itemscope itemtype="http://schema.org/LocalBusiness" id="pagewrap">
+		
+			<div id="header">
+			
+				<div id="navigation">			
+				<ul>
+				<li>HOME</li>
+				<li><a href="contact.html">CONTACT</a></li>
+				<li><a href="area.html">AREA</a></li>
+				<li><a href="commercial.html">COMMERCIAL</a></li>
+				<li><a href="residential.html">RESIDENTIAL</a></li>
+				</ul>
+				</div><!--END navigation-->
+			</div><!--END header-->
+			
+			<div id="maincontent">
+			<img class="alignleft" height="300px" width="450px" src="images/lex&ash-ext2.JPG" alt="">
+			<br><br><br>
+			<div class="aligncenter">
+			<h3>Welcome to Lexington & Ashland Apartments!</h3> 
+			<p>We have both commercial and residential space available.  We are located the historic Elmwood Village, 
+			a vibrant urban community in Buffalo, New York.  Easy access to art galleries, entertainment, restaurants, 
+			and shopping. </p>
+			<p>To inquire about availability, please give us a call at 716-832-9510.</p>
+			</div><!--END aligncenter-->
+			</div><!--END maincontent-->
+			
+
+			<div id="footer">
+			Professionally Managed By
+			<br><a href="http://www.kenmoretudors.com/igr/" target="new tab">Investors Group Realty</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  771 Kenmore Ave. Tonawanda, NY 14223 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (716)832-9510 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:igr@kenmoretudors.com">igr@kenmoretudors.com</a>
+			</div><!--END footer-->
+			
+	</div><!--END pagewrap-->
+					<div class="credit">&copy; Lexington & Ashland Apartments / Designed by <a href="http://worktymehomefront.blogspot.com/" target="new tab">Zoe Huang</a> / This website is best viewed in <a href="https://www.google.com/intl/en/chrome/browser/" target="blank">Chrome</a> or <a href="http://www.mozilla.org/en-US/firefox/new/" target="blank">mozilla Firefox</a>.</div>	
+</body>
+</html>

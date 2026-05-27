@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+	<!-- Microdata markup added by Google Structured Data Markup Helper. -->
+<html itemscope itemtype="http://schema.org/LocalBusiness">
+<head>
+	<title>98 Anderson Apartments</title>
+	<meta name="generator" content="Bluefish 2.2.4" >
+	<meta name="author" content="zoe" >
+	<meta name="copyright" content="98 Anderson Apartments">
+	<meta itemprop="name" content="98 Anderson Apartments">
+	<meta itemprop="description" content="98 Anderson Apartments are located in historic Elmwood Village, downtown Buffalo.">
+	<meta itemprop="image" content="http://www.98Anderson.com/image/snippet.png">
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link href="http://fonts.googleapis.com/css?family=Bubbler One" rel="stylesheet" type="text/css">
+
+</head>
+<body>
+	<div itemscope itemtype="http://schema.org/LocalBusiness" id="pagewrap">
+		
+			<div id="header">
+			
+				<div id="navigation">			
+				<ul>
+				<li><a href="index.html">HOME</a></li>
+				<li><a href="contact.html">CONTACT</a></li>
+				<li><a href="area.html">AREA</a></li>
+				<li><a href="photos.html">PHOTOS</a></li>
+				<li>AMENITIES</li>
+				</ul>
+				</div><!--END navigation-->
+			</div><!--END header-->
+			
+			<div id="maincontent">
+			
+			<div class="aligncenter">
+			<h3>Amenities include:</h3>
+			<ul>
+			<li>Washer/Dryer Facilities in Each Building</li>
+			<li>Hardwood Floors or Wall to Wall Carpeting</li>
+			<li>Cable Hook Ups</li>
+			<li>Refrigerators</li>
+			<li>Electric Ranges</li>
+			<li>24 Hour Telephone Monitoring</li>
+			</ul>
+			</div>
+			</div><!--END maincontent-->
+			
+			<div id="footer">
+			Professionally Managed By
+			<br><a href="http://www.kenmoretudors.com/igr/" target="new tab">Investors Group Realty</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  771 Kenmore Ave. Tonawanda, NY 14223 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (716)832-9510 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:igr@kenmoretudors.com">igr@kenmoretudors.com</a>
+			</div><!--END footer-->
+			
+	</div><!--END pagewrap-->
+			<div class="credit">&copy; 98 Anderson Apartments / Designed by <a href="http://worktymehomefront.blogspot.com/" target="new tab">Zoe Huang</a> / This website is best viewed in <a href="https://www.google.com/intl/en/chrome/browser/" target="blank">Chrome</a> or <a href="http://www.mozilla.org/en-US/firefox/new/" target="blank">mozilla Firefox</a>.</div>	
+</body>
+</html>

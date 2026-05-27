@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+	<!-- Microdata markup added by Google Structured Data Markup Helper. -->
+<html itemscope itemtype="http://schema.org/LocalBusiness">
+<head>
+	<title>Lexington & Ashland Apartments</title>
+	<meta name="generator" content="Bluefish 2.2.4" >
+	<meta name="author" content="zoe" >
+	<meta name="copyright" content="Lexington & Ashland Apartments">
+	<meta itemprop="name" content="Lexington & Ashland Apartments">
+	<meta itemprop="description" content="Lexington & Ashland Apartments are located in historic Elmwood Village, downtown Buffalo.">
+	<meta itemprop="image" content="">
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link href="http://fonts.googleapis.com/css?family=Voltaire" rel="stylesheet" type="text/css">
+
+</head>
+<body>
+	<div itemscope itemtype="http://schema.org/LocalBusiness" id="pagewrap">
+		
+			<div id="header">
+			
+				<div id="navigation">			
+				<ul>
+				<li><a href="index.html">HOME</a></li>
+				<li><a href="contact.html">CONTACT</a></li>
+				<li><a href="area.html">AREA</a></li>
+				<li><a href="commercial.html">COMMERCIAL</a></li>
+				<li>RESIDENTIAL</li>
+				</ul>
+				</div><!--END navigation-->
+			</div><!--END header-->
+			
+			<div id="maincontent">
+			
+	<div class="wrapper">
+
+	<div class="full-image"></div>
+
+	<div class="thumbnails">
+
+		<label>
+			<input type="radio" name="full-image" checked>
+			<div class="full-image">
+				<img src="images/lastainglass.JPG" width="450px" height="300px" alt="Pic1" />
+				<div class="description">Stained glass details </div>
+			</div>
+			<img src="images/lastainglasstn.JPG" />
+		</label>
+
+		<label>
+			<input type="radio" name="full-image">
+			<div class="full-image">
+				<img src="images/laapt1kitchen.JPG" width="450px" height="300px" alt="Pic2" />
+				<div class="description">Eat-in Kitchen</div>
+			</div>
+			<img src="images/laapt1kitchentn.JPG"/>
+		</label>
+
+		<label>
+			<input type="radio" name="full-image">
+			<div class="full-image">
+				<img src="images/laapt1br.JPG" width="450px" height="300px" alt="Pic3" />
+				<div class="description">Bedroom</div>
+			</div>
+			<img src="images/laapt1brtn.JPG"/>
+		</label>
+
+		<label>
+			<input type="radio" name="full-image">
+			<div class="full-image">
+				<img src="images/laapt2lr.JPG" width="450px" height="300px" alt="Pic4" />
+				<div class="description">Living room with fireplace</div>
+			</div>
+			<img src="images/laapt2lrtn.JPG"/>
+		</label>
+
+		<label>
+			<input type="radio" name="full-image">
+			<div class="full-image">
+				<img src="images/laapt3lr.JPG" width="450px" height="300px" alt="Pic5" />
+				<div class="description">Living room with fireplace</div>
+			</div>
+			<img src="images/laapt3lrtn.JPG"/>
+		</label>
+
+		<label>
+			<input type="radio" name="full-image">
+			<div class="full-image">
+				<img src="images/laapt3bath.JPG" width="200px" height="300px" alt="Pic6" />
+				<div class="description">Bathroom with shower</div>
+			</div>
+			<img src="images/laapt3bathtn.JPG"/>
+		</label>
+
+		<label>
+			<input type="radio" name="full-image">
+			<div class="full-image">
+				<img src="images/laapt4kitchen.JPG" width="480px" height="300px" alt="Pic7" />
+				<div class="description">Open living room / kitchen</div>
+			</div>
+			<img src="images/laapt4kitchen-tn.JPG"/>
+		</label>
+
+		<label>
+			<input type="radio" name="full-image">
+			<div class="full-image">
+				<img src="images/laapt4bath.JPG" width="200px" height="300px" alt="Pic8" />
+				<div class="description">Bathroom with tub</div>
+			</div>
+			<img src="images/laapt4bathtn.JPG"/>
+		</label>		
+	</div>
+
+</div><!--END wrapper-->
+				<div id="textmain">
+				<p>Each apartment is unique and has its own layout. To inquire about current availability, please give us a call at 716-832-9510.</p> 
+				<p>The following amenities are included:</p>
+				<ul>
+					
+					<li>Electric range</li>
+					<li>Refrigerator</li>
+					<li>Coin Laundry on site</li>
+					<li>Cable Hook UP</li>
+					<li>24 HR telephone monitoring</li>			
+				</ul>
+				</div><!--END textmain-->
+			</div><!--END maincontent-->
+			
+			<div id="footer">
+			Professionally Managed By
+			<br><a href="http://www.kenmoretudors.com/igr/" target="new tab">Investors Group Realty</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  771 Kenmore Ave. Tonawanda, NY 14223 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (716)832-9510 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:igr@kenmoretudors.com">igr@kenmoretudors.com</a>
+			</div><!--END footer-->
+			
+	</div><!--END pagewrap-->
+					<div class="credit">&copy; Lexington & Ashland Apartments / Designed by <a href="http://worktymehomefront.blogspot.com/" target="new tab">Zoe Huang</a> / This website is best viewed in <a href="https://www.google.com/intl/en/chrome/browser/" target="blank">Chrome</a> or <a href="http://www.mozilla.org/en-US/firefox/new/" target="blank">mozilla Firefox</a>.</div>	
+</body>
+</html>
